@@ -36,5 +36,3 @@ Provide a clear understanding of financial performance to support **forecasting*
 - PDF report creation  
 
 ---
-
-📬 *Want me to create a combined “Sales + Finance” project README? I can generate that too.*
