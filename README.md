@@ -5,7 +5,7 @@
    - 📅 Fiscal Year → [_View Report_](https://github.com/Student-VedantSawalkar/Finance-Analysis-AtliQ-Hardware/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
    - 🗓 Month → [_View Report_](https://github.com/Student-VedantSawalkar/Finance-Analysis-AtliQ-Hardware/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-2. 🌍 Develop P&L statements segmented by [_Markets_](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+2. 🌍 Develop P&L statements segmented by [_Markets_](https://github.com/Student-VedantSawalkar/Finance-Analysis-AtliQ-Hardware/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 ---
 
