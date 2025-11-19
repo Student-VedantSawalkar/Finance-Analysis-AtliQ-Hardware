@@ -1,4 +1,4 @@
-# 💼 Finance Report
+# 💼 Finance Report AtliQ Hardwares
 
 ## 🎯 Project Objectives
 1. 🗓 Build Profit & Loss (P&L) reports by:
